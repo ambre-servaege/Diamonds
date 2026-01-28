@@ -83,7 +83,7 @@ streamlit run app.py
 ## 🌐 Déploiement
 
 Application déployée sur Streamlit Cloud :
-👉 [Lien vers l'application]([https://votre-app.streamlit.app](https://diamonds-k9f3cebauq7xg7rkjtmrne.streamlit.app/))
+👉 [Lien vers l'application](https://diamonds-k9f3cebauq7xg7rkjtmrne.streamlit.app/)](https://diamonds-bzmat6pb4xh2uqmiwluzou.streamlit.app/Prediction))
 
 ## 👥 Équipe
 
